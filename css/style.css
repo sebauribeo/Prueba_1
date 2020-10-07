@@ -4,6 +4,7 @@ body{
     border: 0;
 }
 
+
 h1, h2, h3, a{
     font-family: 'Condiment', cursive;
     font-size: 30px;
@@ -11,17 +12,19 @@ h1, h2, h3, a{
 
 p{
     font-family: 'Sansita Swashed', cursive;
-    font-size: 15px;
-}
-
-.navbar-brand{
-    font-family: 'Nosifer', cursive;
+    font-size: 20px;
 }
 
 .header-img{
     width: 100%;
 }
-    
+
+.texto-header{
+    position: absolute;
+}
+.navbar-brand{
+    font-family: 'Nosifer', cursive;
+}
 
 section img {
      height: 250px;
