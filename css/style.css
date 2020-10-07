@@ -4,9 +4,9 @@ body{
     border: 0;
 }
 
-h1, h2{
+h1, h2, h3, a{
     font-family: 'Condiment', cursive;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 p{
@@ -18,16 +18,12 @@ p{
     font-family: 'Nosifer', cursive;
 }
 
-ul li a [href=""]{
-    width: 10px;
-}
-
 .header-img{
     width: 100%;
 }
     
 
- section img {
+section img {
      height: 250px;
 }
 
@@ -37,11 +33,4 @@ ul li a [href=""]{
     border-radius: 50%;
 }
 
-.carrusel{
-    background-color: darkkhaki;
-}
-
-.form-control{
-    width: 40%;
-}
 
