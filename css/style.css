@@ -1,0 +1,45 @@
+body, 
+
+h1, h2{
+    font-family: 'Condiment', cursive;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 15px;
+}
+
+.navbar-brand{
+    font-family: 'Nosifer', cursive;
+}
+
+ul li a [href=""]{
+    width: 10px;
+}
+
+.header-img{
+    width: 100%;
+}
+    
+
+ section img {
+     height: 250px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    
+}
+
+.carrusel{
+    background-color: darkkhaki;
+}
+
+.form-control{
+    width: 40%;
+    
+}
+
